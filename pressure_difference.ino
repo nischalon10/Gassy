@@ -18,5 +18,4 @@ void loop() {
   Serial.print(pd);
   Serial.println();
   delay(200);
- 
 }
